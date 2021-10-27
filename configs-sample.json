@@ -1,0 +1,11 @@
+{
+"dbhost":"localhost",
+"dbuser":"root",
+"dbpass":"",
+"dbname":"wabot",
+"port":"3000",
+"timezone":"Asia/Jakarta",
+"base_url":"http://localhost/wabot/",
+"callback_url":"http://localhost/wabot/helper/callback.php",
+"registration":"0"
+}
